@@ -9,7 +9,6 @@ const Card=({id, image,info,price,name, removeTour})=>  {
         setReadmore(!readmore);
     }
 
-
     return (
         
         <div className="card">
