@@ -1,5 +1,5 @@
 import Card from './Card'
-function Tours({tours, removeTour}) {
+const Tours = ({tours, removeTour})=> {
     return (
         <div className='container'>
             <div>
